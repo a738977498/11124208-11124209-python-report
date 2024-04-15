@@ -18,3 +18,4 @@ print(x)
 ```
 # 實作
 ![image](picture or gif url)
+5.png
