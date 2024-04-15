@@ -17,5 +17,5 @@ while i >= 0:
 print(x)
 ```
 # 實作
-![image](5.png)
+![image]([5.png](https://github.com/a738977498/11124208-11124209-python-report/blob/main/5.png))
 
